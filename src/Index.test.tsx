@@ -92,7 +92,7 @@ describe('application tests', () => {
       parent,
       child,
       /^LinkedIn$/,
-      'https://www.linkedin.com/in/kajal-kumari-7993a8240/'
+      'https://www.linkedin.com/in/kajalkri/'
     );
   });
 

@@ -22,7 +22,7 @@ const config: Config = {
       display: 'LinkedIn',
       aria: 'Visit my LinkedIn profile',
       icon: <LinkedIn />,
-      href: 'https://www.linkedin.com/in/kajal-kumari-7993a8240/',
+      href: 'https://www.linkedin.com/in/kajalkri/',
     },
     {
       display: 'Resume',
